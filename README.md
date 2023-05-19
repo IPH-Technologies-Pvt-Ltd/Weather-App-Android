@@ -27,3 +27,10 @@ This app uses the [OpenWeatherMap API](https://openweathermap.org/api) to retrie
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Video
+
+
+https://github.com/IPH-Technologies-Pvt-Ltd/Weather-App-Android/assets/124572978/7e448337-5e55-44cf-9ff6-03edf7be5c4b
+
+
